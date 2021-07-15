@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, Flutter**.
 
-- 📫 Reach me @**[email][email]**.
+- 📫 Reach me at **[deepank411@gmail.com][email]**.
 
 ### Languages and Tools:
 
