@@ -39,7 +39,7 @@
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepank411&langs_count=5&theme=tokyonight" alt="shiv-k-sharma" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepank411&layout=compact&hide=html&theme=tokyonight&showicons=true" alt="deepank411" />
 </p>
 
 [email]: mailto://deepank411@gmail.com
