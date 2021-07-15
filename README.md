@@ -1,3 +1,5 @@
+### Hey there, I'm Deepank Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 [![LinkedIn Connect][linkedinbadge]][linkedin]
 [![Instagram Follow][instabadge]][instagram]
 [![Twitter Follow][twitterbadge]][twitterfollow]
