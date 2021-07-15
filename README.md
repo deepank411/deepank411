@@ -1,5 +1,5 @@
 
-[![Twitter Follow][twitterbadge]][twitterfollow]
+[![Twitter Follow][twitterbadge]][twitter]
 [![LinkedIn Connect][linkedinbadge]][linkedin]
 [![Instagram Follow][instabadge]][instagram]
 
@@ -43,7 +43,7 @@
 
 [email]: mailto://deepank411@gmail.com
 [website]: https://deepank411.github.io
-[twitter]: https://twitter.com/deepank411
+[twitterfollow]: https://twitter.com/deepank411
 [linkedin]: https://www.linkedin.com/in/deepank411/
 [instagram]: http://instagram.com/travelloper
 [twitterbadge]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
