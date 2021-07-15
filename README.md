@@ -16,7 +16,7 @@
 
 - 📫 Reach me at **[deepank411@gmail.com][email]**.
 
-### Languages and Tools:
+### Languages, Frameworks and Tools I'm proficient in:
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26" height="26"/>
