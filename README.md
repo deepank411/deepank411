@@ -5,15 +5,15 @@
 
 ### Software Engineer. Sportsperson. Pantheist. Indian. 🇮🇳
 
-- 🔭 I’m currently working at Yellow Class
+- 🔭 I’m currently working at Yellow Class.
 
-- 🌱 I’m currently learning **Flutter, Graphql**
+- 🌱 I’m currently learning **Golang**.
 
-- 👨‍💻 All of my projects are available at my [website][website]
+- 👨‍💻 Checkout my [website][website] for my projects and work experience.
 
-- 💬 Ask me about **ReactJS, NodeJS, Flutter**
+- 💬 Ask me about **ReactJS, NodeJS, Flutter**.
 
-- 📫 Reach me @**[email][email]**
+- 📫 Reach me @**[email][email]**.
 
 ### Languages and Tools:
 
